@@ -1,7 +1,7 @@
-# :robot: semantic-release-npm-github
+# :robot: semantic-release
 
-[![NPM version](https://img.shields.io/npm/v/zaflun/semantic-release-npm-github.svg)](https://www.npmjs.com/package/zaflun/semantic-release-npm-github)
-[![Build Status](https://github.com/zaflun/semantic-release-npm-github/workflows/release/badge.svg)](https://github.com/zaflun/semantic-release-npm-github/actions)
+[![NPM version](https://img.shields.io/npm/v/zaflun/semantic-release.svg)](https://www.npmjs.com/package/zaflun/semantic-release)
+[![Build Status](https://github.com/zaflun/semantic-release/workflows/release/badge.svg)](https://github.com/zaflun/semantic-release/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > Shareable configuration automated package publication to NPM and GitHub using [semantic-release](https://github.com/semantic-release/semantic-release), tailored for OSS projects.
@@ -32,18 +32,18 @@
 2. Install this package:
 
   ```sh
-  npm install --save-dev zaflun/semantic-release-npm-github
+  npm install --save-dev zaflun/semantic-release
   ```
 
   ```sh
-  yarn add -D zaflun/semantic-release-npm-github
+  yarn add -D zaflun/semantic-release
   ```
 
 3. Add a semantic release config in your `package.json` file:
 
   ```json
   {
-    "extends": "semantic-release-npm-github",
+    "extends": "semantic-release",
     "branch": "main"
   }
   ```

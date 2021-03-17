@@ -1,11 +1,11 @@
 {
-  "name": "semantic-release-npm-github",
+  "name": "@zaflun/semantic-release",
   "version": "1.0.0",
   "description": "Shareable configuration automated package publication to NPM and GitHub using semantic-release",
-  "repository": "zaflun/semantic-release-npm-github",
+  "repository": "zaflun/semantic-release",
   "homepage": "https://opensource.withzaflun.com",
   "bugs": {
-    "url": "https://github.com/zaflun/semantic-release-npm-github/issues"
+    "url": "https://github.com/zaflun/semantic-release/issues"
   },
   "keywords": [
     "semantic-release",
