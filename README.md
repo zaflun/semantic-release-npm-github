@@ -44,7 +44,7 @@
   ```json
   {
     "extends": "@zaflun/semantic-release",
-    "branch": ["main", "next"]
+    "branches": ["main", "next"]
   }
   ```
 
