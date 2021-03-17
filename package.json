@@ -1,6 +1,6 @@
 {
   "name": "@zaflun/semantic-release",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shareable configuration automated package publication to NPM and GitHub using semantic-release",
   "repository": "zaflun/semantic-release",
   "homepage": "https://opensource.withzaflun.com",
