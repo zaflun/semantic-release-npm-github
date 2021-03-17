@@ -1,6 +1,6 @@
 # :robot: semantic-release
 
-[![NPM version](https://img.shields.io/npm/v/zaflun/semantic-release.svg)](https://www.npmjs.com/package/zaflun/semantic-release)
+[![NPM version](https://img.shields.io/npm/v/@zaflun/semantic-release.svg)](https://www.npmjs.com/package/@zaflun/semantic-release)
 [![Build Status](https://github.com/zaflun/semantic-release/workflows/release/badge.svg)](https://github.com/zaflun/semantic-release/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
